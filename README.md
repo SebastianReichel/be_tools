@@ -12,3 +12,4 @@ Sammlung von verschiedenen Backend-Anpassungen bzw. -Erweiterungen, u.A. rexTree
 - Addon-Nav, Community-Nav & Tabellen-Nav einklappbar
 - Änderung Medienpool-Sortierung
 - Zeitgesteuerte Ausgabe von Modulblöcken
+  - Bei REDAXO Backend-Tools -> Konfiguration Zeitsteuerung dort kann man diese Funktion an und ausschalten.
